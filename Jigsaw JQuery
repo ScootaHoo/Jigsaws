@@ -1,4 +1,4 @@
-$(document).ready(function () {
+$(document).ready(function ("#jigsaw") {
 
 $image_file = 'http://40.media.tumblr.com/fa7abee7c1fe2c1acc3bd65e471a821b/tumblr_nismlonI7C1s95mroo2_1280.png';
 
